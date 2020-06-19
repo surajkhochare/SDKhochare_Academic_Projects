@@ -1,8 +1,6 @@
 ## Study the Sub-nanometer Fluctuations in Single Cells Using a Plasmonic Imaging Technique
 
-Abstract:
-
-Plasma membrane of live cells undergo active membrane fluctuations. Scrupulous study of single cell
+  Plasma membrane of live cells undergo active membrane fluctuations. Scrupulous study of single cell
 membrane fluctuations can provide better insight into the physiological processes like metabolism,
 mitosis and cell motility which are very important while developing drug assays for diseases like
 cancer. Therefore, it is crucial to study the localized membrane fluctuations which pose a technical
