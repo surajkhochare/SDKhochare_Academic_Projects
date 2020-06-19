@@ -1,5 +1,4 @@
-# SDKhochare_MS_Thesis
-Study the Sub-nanometer Fluctuations in Single Cells Using a Plasmonic Imaging Technique
+## Study the Sub-nanometer Fluctuations in Single Cells Using a Plasmonic Imaging Technique
 
 Abstract:
 
